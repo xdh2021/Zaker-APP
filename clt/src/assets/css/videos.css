@@ -1,0 +1,22 @@
+.videosList{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    background: #e3e3e3;
+}
+.videosItem{
+    display: flex;
+    flex-direction: column;
+    background: #fff;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 2px #ccc;
+}
+.videosItem h2{
+    font-size: 40px;
+    text-align: center;
+}
+.videosItem p {
+    margin-bottom: 5px;
+    margin-left: 5px;
+}

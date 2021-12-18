@@ -1,0 +1,33 @@
+.findList{
+    height: 100%;
+    padding: 5px;
+}
+.findItem{
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    float: left;
+    margin: 10px;
+    border-radius: 25px;
+    background: url('../img/bg1.jpg') ;
+    background-size: cover;
+    box-shadow: 5px 5px 2px #ccc;
+}
+.findItem img{
+    width: 150px;
+    height: 150px;
+    border-radius: 25px;
+    padding: 10px 0 0 10px;
+}
+.findItem h2{
+    font-size: 40px;
+    color: rgba(255, 255, 255, 0.932);
+    padding: 10px 0 0 10px;
+}
+.findItem a{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.932);
+    padding: 10px 0 0 10px;
+}

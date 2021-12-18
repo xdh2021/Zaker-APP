@@ -1,0 +1,28 @@
+.mytop {
+    border-bottom: 1px solid #ccc;
+}
+.login{
+    background: #e3e3e3;
+
+}
+.account1 {
+    color:blue;
+    text-align: center;
+}
+.account2 {
+    color:red;
+    text-align: center;
+}
+.mytool {
+    height: 100%;
+    background: #e3e3e3;
+}
+.ls1{
+    padding: 40px 0;
+    margin-top: 20px;
+}
+
+.lst1{
+    background: #fff;
+    font-size: 24px;
+}
